@@ -374,7 +374,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
 
-![Uploading 7 1oppt.png…]()
+
+![WhatsApp Image 2023-05-30 at 11 48 45](https://github.com/sandy29l/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/123359969/4dae954a-d932-48aa-a3b6-cd5d5b874e4a)
 
 
 
